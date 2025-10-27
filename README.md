@@ -6,7 +6,6 @@
   <title>Techmates – PC & Handy Support</title>
   <style>
     :root {
-      --bg: #0e0b16;
       --accent: #c77dff;
       --text: #ffffff;
       --card: #1a152d;
